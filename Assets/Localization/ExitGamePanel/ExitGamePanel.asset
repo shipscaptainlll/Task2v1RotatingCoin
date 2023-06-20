@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: ExitGamePanel
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 442368a69a040294ab881d1df08578ce, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 5c36e583508881b41913f0f993aebcf8, type: 2}
+  - {fileID: 11400000, guid: 613a33930da19724d9bff58a24c3e57a, type: 2}
+  - {fileID: 11400000, guid: 768af8a4b07cb2e4fbaf735bd00d4049, type: 2}
+  - {fileID: 11400000, guid: 0c46870f154e3bc42a699bfeaa107ffa, type: 2}
+  - {fileID: 11400000, guid: 17ce799859284ab4382ee37b600c3fe0, type: 2}
+  - {fileID: 11400000, guid: 9d575192465f6704797b69efa38665fd, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: EscapeMenu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: EscapeMenu
+  m_TableCollectionNameGuidString: 3518a65369f2fcd499368214ab335698
+  m_Entries:
+  - m_Id: 5792780288
+    m_Key: EscapeMenu_ShowFPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 634229542912
+    m_Key: EscapeMenu_Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 637383659520
+    m_Key: EscapeMenu_Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 640554553344
+    m_Key: EscapeMenu_BugReport
+    m_Metadata:
+      m_Items: []
+  - m_Id: 644832743424
+    m_Key: EscapeMenu_ExitGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 647416434688
+    m_Key: EscapeMenu_Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649802993664
+    m_Key: EscapeMenu_CurrentLanguage
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 72236182498967635
+  references:
+    version: 2
+    RefIds:
+    - rid: 72236182498967635
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1687279266541

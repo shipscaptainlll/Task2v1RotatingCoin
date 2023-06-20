@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Credits_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: fc8d6f14fc5268d40ab8f2b2de980499, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 454658805760
+    m_Localized: Anerkennungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 457745813504
+    m_Localized: "Dank an:\r\n\r\no_ciz f\xFCr die \u201CVillage_morning_1 (traffic,
+      cars, birds, dogs, barking).wav\u201D Audio\r\n\r\nFoolBoyMedia f\xFCr die
+      \u201CSunday Morning In The Great Hall\u201D Audio\r\n\r\nfreesound.org f\xFCr
+      die Bereitstellung einer kostenlosen Audioplattform\r\n\r\nGigel f\xFCr das
+      \u201CRPG Poly Pack - Lite Free low-poly 3D model\u201D Modellpaket\r\n\r\ncgtraider.com
+      f\xFCr die Bereitstellung einer kostenlosen Modellplattform\r\n\r\nFunkyDealer
+      f\xFCr das \u201CAnimated Training Dummy\u201D Modell\r\n\r\nsketchfab f\xFCr
+      die Bereitstellung einer kostenlosen Asset-Plattform\r\n\r\nwechat_os_Qy00xTbKlLn2xXQ3w34RH8xB8
+      f\xFCr den \u201CFREE Skybox Extended Shader\u201D Shader\r\n\r\nTrulyStupidNewb
+      f\xFCr das \u201CRPG Poly Pack - Lite\u201D Modellpaket\r\n\r\nTravis Game
+      Assets f\xFCr das \u201CStatus Effects FREE\u201D Effektpaket\r\n\r\nunity
+      asset store f\xFCr die Bereitstellung einer kostenlosen Asset-Plattform"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: EscapeMenu
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 3518a65369f2fcd499368214ab335698, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: dfa6b70e8a1db004b81479642f052776, type: 2}
+  - {fileID: 11400000, guid: 575919ea4e852bd4cb3c1711b97c4ec3, type: 2}
+  - {fileID: 11400000, guid: 742461e0f03b30541be435fa0448e5d3, type: 2}
+  - {fileID: 11400000, guid: 13679cebe61e6ca44bd151564e555cc6, type: 2}
+  - {fileID: 11400000, guid: 5f1b2894eecd7c041baf44bcdcdbfaf9, type: 2}
+  - {fileID: 11400000, guid: 54410500e65dfef43b684080056e379b, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

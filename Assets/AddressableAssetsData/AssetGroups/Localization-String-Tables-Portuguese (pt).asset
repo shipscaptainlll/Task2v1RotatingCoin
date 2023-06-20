@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Portuguese (pt)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Portuguese (pt)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4a0708dc91ea2d34ea3a97171b133cfb
+  m_SerializeEntries:
+  - m_GUID: 13679cebe61e6ca44bd151564e555cc6
+    m_Address: EscapeMenu_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+  - m_GUID: 6af8305d8ab987a4ab759c05d8aa5fce
+    m_Address: BugReportPanel_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+  - m_GUID: c81cde2a040519a4cb0c5c2671a60b18
+    m_Address: Credits_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+  - m_GUID: 0c46870f154e3bc42a699bfeaa107ffa
+    m_Address: ExitGamePanel_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+  - m_GUID: 0988c55cf25d9d444b278dec985c472b
+    m_Address: FinishGamePanel_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+  - m_GUID: 5cb2b6a46e1cec540995c02b417429ef
+    m_Address: CoinState_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+  - m_GUID: af883dc7f03bb8448b2b3faa84e3252b
+    m_Address: CrystalNotifications_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: f5a68885c01e4d74ca7f8f51a25a46cd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5e8d08a4fe2586c4ea36b94f632a80aa, type: 2}
+    - {fileID: 11400000, guid: 414a24db0b1d23d4389b8c31cf3b3e5c, type: 2}

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: BugReportPanel_zh
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: zh
+  m_SharedData: {fileID: 11400000, guid: 5c5b827c14e01e348bf6e6b5faa40155, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 64013914112
+    m_Localized: "\u62A5\u544A\u9519\u8BEF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66358530048
+    m_Localized: "\u8F93\u5165\u6587\u672C..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879306752
+    m_Localized: "\u53D1\u9001"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74109603840
+    m_Localized: "\u62A5\u544A\u5DF2\u53D1\u9001"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78505234432
+    m_Localized: "\u611F\u8C22\u60A8\u7684\u53CD\u9988\uFF01\u6211\u4EEC\u4F1A\u786E\u4FDD\u8FD9\u79CD\u60C5\u51B5\u4E0D\u518D\u53D1\u751F\u3002"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

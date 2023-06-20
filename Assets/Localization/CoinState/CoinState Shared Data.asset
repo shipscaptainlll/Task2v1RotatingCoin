@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: CoinState Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: CoinState
+  m_TableCollectionNameGuidString: f1f88759fcec5904f9de2076a2c41d26
+  m_Entries:
+  - m_Id: 18912563200
+    m_Key: KEY_PressCoinToStart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111409549312
+    m_Key: KEY_WaterMagic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 151003779072
+    m_Key: KEY_FireMagic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156322156544
+    m_Key: KEY_NatureMagic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160013144064
+    m_Key: KEY_LightMagic
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 72236182498967652
+  references:
+    version: 2
+    RefIds:
+    - rid: 72236182498967652
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1687281379664

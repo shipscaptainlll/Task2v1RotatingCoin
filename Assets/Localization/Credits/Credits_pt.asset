@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Credits_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: fc8d6f14fc5268d40ab8f2b2de980499, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 454658805760
+    m_Localized: "Cr\xE9ditos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 457745813504
+    m_Localized: "Agradecimentos a:\r\n\r\no_ciz pelo \xE1udio \u201CVillage_morning_1
+      (traffic, cars, birds, dogs, barking).wav\u201D\r\n\r\nFoolBoyMedia pelo \xE1udio
+      \u201CSunday Morning In The Great Hall\u201D\r\n\r\nfreesound.org por fornecer
+      uma plataforma de \xE1udio gratuita\r\n\r\nGigel pelo pack de modelos \u201CRPG
+      Poly Pack - Lite Free low-poly 3D model\u201D\r\n\r\ncgtraider.com por fornecer
+      uma plataforma gratuita para modelos\r\n\r\nFunkyDealer pelo modelo \u201CAnimated
+      Training Dummy\u201D\r\n\r\nsketchfab por fornecer uma plataforma gratuita
+      para assets\r\n\r\nwechat_os_Qy00xTbKlLn2xXQ3w34RH8xB8 pelo shader \u201CFREE
+      Skybox Extended Shader\u201D\r\n\r\nTrulyStupidNewb pelo pack de modelos \u201CRPG
+      Poly Pack - Lite\u201D\r\n\r\nTravis Game Assets pelo pack de efeitos visuais
+      \u201CStatus Effects FREE\u201D\r\n\r\nunity asset store por fornecer uma plataforma
+      gratuita para assets"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: FinishGamePanel
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 0a16c495ed35c4546aad902287fb8dc5, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 3eb58a3a6c9ccaf46895c7e41c19c641, type: 2}
+  - {fileID: 11400000, guid: 24d5f4838297bc94384b574b8f27960f, type: 2}
+  - {fileID: 11400000, guid: cd03558f71efd704fb9bd40c191f93b0, type: 2}
+  - {fileID: 11400000, guid: 0988c55cf25d9d444b278dec985c472b, type: 2}
+  - {fileID: 11400000, guid: 2b0f3f7f0e30a16429dd7667c123c8d4, type: 2}
+  - {fileID: 11400000, guid: 3b6c71f73c9938447bc99aaef34bc48b, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

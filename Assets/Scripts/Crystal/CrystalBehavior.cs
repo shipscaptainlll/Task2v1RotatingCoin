@@ -38,6 +38,7 @@ public class CrystalBehavior : MonoBehaviour
 
     public void DealDamageCrystal()
     {
+
         if (coinStateManager.CurrentType == CoinStateManager.CoinStateEnum.waterState
             && currentType == CrystalStateEnum.waterState)
         {

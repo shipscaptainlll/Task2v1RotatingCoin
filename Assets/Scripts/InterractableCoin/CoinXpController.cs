@@ -27,7 +27,7 @@ public class CoinXpController : MonoBehaviour
     public void GainXp()
     {
         //Debug.Log(currentDamage);
-        int xp = 500;
+        int xp = 60;
         xpNotification.Play("XpNotification", -1, 0.0f);
         
         currentXp += xp;

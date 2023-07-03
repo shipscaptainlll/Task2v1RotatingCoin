@@ -90,7 +90,7 @@ public class CoinStateManager : MonoBehaviour
 
     void ChangeCoinState()
     {
-        if (!enteredGodMode)
+        if (!enteredGodMode && panelsOpener.CurrentlyOpened == null)
         {
             UpdateRandomState();
             UpdateCoinStateUI();
